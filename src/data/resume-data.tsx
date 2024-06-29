@@ -20,14 +20,14 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
+  name: "Enes ÇALBAN",
   initials: "BJ",
   location: "Wrocław, Poland, CET",
   locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
-    "Detail-oriented Full Stack Engineer dedicated to building high-quality products.",
+    "Back-End Developer & Web Application Security",
   summary:
-    "As a Full Stack Engineer, I specialize in taking products from concept to launch. I excel in leading teams and creating environments where individuals perform at their best. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience working remotely with companies worldwide.",
+    "Siber güvenlik alanında kariyerime başladım ve özellikle web uygulama güvenliği üzerine odaklandım. Daha sonra web geliştirme alanına geçiş yaparak backend geliştirme pozisyonunda ilerledim. Özellikle sunucu güvenliği konfigürasyonlarına büyük ilgi gösterdim ve ihtiyaçlarım doğrultusunda scriptler yazarak kendimi bu alanlarda geliştirdim.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
